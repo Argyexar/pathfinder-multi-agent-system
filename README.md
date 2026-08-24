@@ -1,9 +1,9 @@
 # 🏔️ Pathfinder: The AI Trail Companion
 > **"Find your trail. Leave no trace."** — AI-powered sustainable outdoor discovery for Greece.
 
-[![Made at Makeathon 2026](https://img.shields.io/badge/Makeathon-2026-brightgreen)](https://github.com/)
-[![Deloitte Challenge](https://img.shields.io/badge/Challenge-SustainableTourism-blue)](https://github.com/)
-[![Team](https://img.shields.io/badge/Team-NNTUA-orange)](https://github.com/)
+[![Made at Makeathon 2026](https://img.shields.io/badge/Makeathon-2026-brightgreen)](https://makeathon.uniai.gr)
+![Deloitte Challenge](https://img.shields.io/badge/Challenge-SustainableTourism-blue)
+![Team](https://img.shields.io/badge/Team-NNTUA-orange)
 
 ---
 > ΝΟΤΕ: This is a hackathon showcase prototype. Some integrations depend on external API keys or optional cloud resources, and the original submitted repository remains private. The public goal of this repo is to document the idea, demonstrate the architecture, and preserve the product story behind the Makeathon submission.
@@ -29,6 +29,12 @@ Pathfinder is more than just an app; it's a **sustainable tourism distribution c
 - **Saved trips and feedback**: stores selected itineraries and interaction events for future personalization.
 
 ---
+## 🍿 Demo
+
+[![Demo thumbnail](https://github.com/user-attachments/assets/667db5f8-7cea-4450-972d-75a62bb43086)](https://1drv.ms/v/c/20fe3aee5b9a4c5b/IQB8c-3Q-9hlT5-yYUP_X3A_AeTsgsNMOr0-8DiaWeYRIEg?e=Ct1S3h)
+
+---
+
 ## 🛠️ Architecture
 
 PathFinder's Makeathon demo is built around Google ADK multi-agent system using an Azure OpenAI / OpenAI-compatible LLM endpoint. A root orchestrator agent manages the conversation and calls specialist agents as tools. Each specialist owns a focused part of the travel-planning workflow.
@@ -105,3 +111,4 @@ The implementation is intentionally fallback-friendly: local ChromaDB and local 
 
 ## 👥 Team (ΝNTUA)
 * **[Αργύριος Εξαρχάκος](https://github.com/Argyexar)**
+* **[Γεωργία Παναγοπούλου](https://github.com/georgiaapn)**
