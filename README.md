@@ -31,7 +31,7 @@ Pathfinder is more than just an app; it's a **sustainable tourism distribution c
 ---
 ## 🍿 Demo
 
-[![Demo thumbnail](https://github.com/user-attachments/assets/667db5f8-7cea-4450-972d-75a62bb43086)](https://1drv.ms/v/c/20fe3aee5b9a4c5b/IQB8c-3Q-9hlT5-yYUP_X3A_AeTsgsNMOr0-8DiaWeYRIEg?e=Ct1S3h)
+[![Demo thumbnail](https://github.com/user-attachments/assets/667db5f8-7cea-4450-972d-75a62bb43086)](https://1drv.ms/v/c/20fe3aee5b9a4c5b/IQBtSloSmhJ3QaQwu0OTLKbeAfkfOImc0auu67GL0-2r3Hk?e=10meOX)
 
 ---
 
