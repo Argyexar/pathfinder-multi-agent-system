@@ -111,4 +111,6 @@ The implementation is intentionally fallback-friendly: local ChromaDB and local 
 
 ## 👥 Team (ΝNTUA)
 * **[Αργύριος Εξαρχάκος](https://github.com/Argyexar)**
+* **Γεράσιμος Μαντζώρος**
 * **[Γεωργία Παναγοπούλου](https://github.com/georgiaapn)**
+* **[Νίκη Παπαδημητρίου](https://github.com/ntua-el22005)**
